@@ -1,1 +1,2 @@
-This is a small assignment to get use to using python
+# test1
+just testing some repostory
